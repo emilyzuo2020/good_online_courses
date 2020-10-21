@@ -1,0 +1,8 @@
+# MIT -- Introduction to algorithm 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths/
+
+# deep learning 
+https://www.bilibili.com/video/av9770302/
+
+# CMU -- Introduction to computer system
+https://www.bilibili.com/video/av24540152?from=search&seid=14960377861338263510
